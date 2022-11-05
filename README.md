@@ -16,7 +16,7 @@
 > If you see an error in this translation - write to the **Discord** developer *Narin#4241*            
 > Made with love for NorthWood Studio                                                          
 
-# Як завантажити? | How to download?
+# How to download?
 **UA:**
 > Відкриваємо це відео - [SOON]
 
