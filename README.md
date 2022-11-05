@@ -1,4 +1,4 @@
-# Ukraine languagefor SCP: SL
+# Ukraine language for SCP: Secret Laboratory
 
 **UA:**
 > Через довге не оновлення української мови у грі SCP: Secret Laboratory я її вирішив оновити.   
