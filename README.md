@@ -22,3 +22,12 @@
 
 **ENG:**
 > Open this video - [SOON]
+
+# Old developers
+**UA:**
+> Старими розробниками є: TRI99ER, Andrii, Rayfulrand та Raboshchuk                                    
+> Дякуємо, що Ви раніше оновлювали Українську мову.                                                         
+
+**ENG:**
+> Old developers are: TRI99ER, Andrii, Rayfulrand and Raboshchuk                                              
+> Thank you for updating the Ukrainian language earlier.                                                              
