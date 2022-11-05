@@ -15,3 +15,8 @@
 > Made with love for NorthWood Studio                                                          
 
 # Як завантажити? | How to download?
+**UA:**
+> Відкриваємо це відео - [SOON]
+
+**ENG:**
+> Open this video - [SOON]
