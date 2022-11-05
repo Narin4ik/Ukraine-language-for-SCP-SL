@@ -3,8 +3,8 @@
 <color=orange>ПЕРЕМІЩЕННЯ</color>
 <color=red>БЛОКУВАННЯ</color>
 <color=red>ПОМИЛКА</color>
-<color=red>ДОСТУП ВІДМОВОЛЕНО</color>
+<color=red>ДОСТУП\nВІДМОВОЛЕНО</color>
 <color=green>ДОСТУП НАДАНО</color>
-<color=#07A2FF>ПОТРІБНА КЛЮЧ-КАРТА</color>
-<color=orange>БУДЬ ЛАСКА, ПРОХОДІТЬ</color>
+<color=#07A2FF>ПОТРІБНА\nКЛЮЧ-КАРТА</color>
+<color=orange>БУДЬ ЛАСКА,\nПРОХОДІТЬ</color>
 <color=orange>ЗАКРИТТЯ</color>
