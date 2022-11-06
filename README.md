@@ -10,8 +10,8 @@
 
 **ENG:**
 > After a long time not updating the Ukrainian language in the game **SCP: Secret Laboratory** and I decided to update it.
-> So far it is in Open Beta test on version **[11.2.2](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v1.0.5)** and **[12.0 Patreon Beta](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v2.0.0-Open-Beta-Test)**                                                                       
 > Available on version: **11.2.2** and **12.0 Patreon Beta**.                                                                                            
+> So far it is in Open Beta test on version **[11.2.2](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v1.0.5)** and **[12.0 Patreon Beta](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v2.0.0-Open-Beta-Test)**           
 > The developer of this translation is @YT-Narin                                                 
 > If you see an error in this translation - write to the **Discord** developer *Narin#4241*            
 > Made with love for NorthWood Studio                                                          
