@@ -2,7 +2,7 @@
 
 **UA:**
 > Через довге не оновлення Української мови у грі **SCP: Secret Laboratory** та я її вирішив оновити.   
-> Поки що вона знаходиться у Відкритому Бета тесті на версії **1.0.2**                                  
+> Поки що вона знаходиться у Відкритому Бета тесті на версії **1.0.3**                                  
 > Необхідна версія гри: **11.2.2**                                                                         
 > Розробник цього перекладу - @YT-Narin                                                            
 > Якщо Ви побачили помилку в даному перекладі - пишіть у **Discord** розробника *Narin#4241*          
@@ -10,7 +10,7 @@
 
 **ENG:**
 > After a long time not updating the Ukrainian language in the game **SCP: Secret Laboratory** and I decided to update it.
-> So far it is in Open Beta test on version **1.0.2**                                                                       
+> So far it is in Open Beta test on version **1.0.3**                                                                       
 > Required game version: **11.2.2**                                                                                             
 > The developer of this translation is @YT-Narin                                                 
 > If you see an error in this translation - write to the **Discord** developer *Narin#4241*            
