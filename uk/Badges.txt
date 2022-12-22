@@ -13,7 +13,7 @@
 Системний адміністратор Northwood
 Менеджер Wiki Northwood
 Арт-менеджер SCP:SL
-SCP:SL Художній керівник SCP:SL
+Художній керівник SCP:SL
 Художник SCP:SL
 Backend програміст SCP:SL
 Менеджер серверного програмування SCP:SL
