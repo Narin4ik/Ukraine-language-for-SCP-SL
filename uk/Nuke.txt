@@ -1,4 +1,4 @@
-<size=180><color=red>ВИМКНЕНО</color></size>
-<color=red><size=200>ЗАЧЕКАЙТЕ</size></color>
+<size=180><color=red>ВІДКЛЮЧЕН</color></size>
+<color=red><size=200>ЧЕКАЙТЕ</size></color>
 <color=lime><size=180>ГОТОВО</size></color>
-ДЕТОНАЦІЯ НЕМИНУЧА
+ДЕТОНАЦІЯ НЕИЗБЕЖНА
