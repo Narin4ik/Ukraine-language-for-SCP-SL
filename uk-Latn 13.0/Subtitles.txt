@@ -1,0 +1,27 @@
+Mobil'na Operatyvna Grupa Epsilon-11, poznačenyj jak [designation], prybuv kompleks.<split>Usjomu personalu rekomendujet'sja dijaty vidpovidno do standartnyh protokoliv evakuaciji, doky grupa MOG ne prybude do miscja pryznačennja.<split>
+Očikujet'sja vidnovlennja umov utrymannja dlja [count] SCP ob'jektiv.
+Očikujet'sja vidnovlennja umov utrymannja dlja 1 SCP ob'jekta.
+U kompleksi zberigajet'sja ser'jozna zagroza bezpeci -- bud'te oberežni.
+uspišno znyščeno. Pryčynu ne vkazano.
+znyščeno SCP-[scp].
+uspišno znyščeno Avtomatyčnoju Systemoju Ohorony.
+uspišno znyščeno bojegolovkoju Al'fa.
+uspišno strymanyj Naukovym Personalom.
+uspišno strymanyj Personalom klasu D.
+uspišno strymanyj Povstancjamy Haosu.
+SCP-[scp]
+uspišno strymanyj. Grupa nevidoma.
+uspišno strymanyj grupoju [designation].
+vtračeno v procesi znezaražennja.
+[current] z [max] generatoriv aktyvovano.
+<split>Vsi generatory uspišno aktyvovani.
+Perezavantažennja čerez 3... 2... 1...
+Kompleks povernuvsja do robočogo režymu.
+Uvaga vsjomu personalu.<split>Proces znezaražennja Legkoji Zony Utrymannja počnet'sja čerez 15 hvylyn.<split>Vsi biologični substanciji povynni buty vydaleni, ščob unyknuty znyščennja.
+Nebezpeka, proces znezaražennja Legkoji Zony Utrymannja rozpočnet'sja čerez [time] hvylyn.
+Nebezpeka, znezaražennja Legkoji Zony Utrymannja počnet'sja čerez 1 hvylynu.
+Nebezpeka, proces znezaražennja Legkoji Zony Utrymannja počnet'sja čerez 30 sekund.<split>Vsi dveri kontrol'no-propusknyh punktiv buly vidčyneni.<split>Bud' laska, negajno evakujujtesja.
+Zona Legkogo Utrymannja bula zablokovana ta gotova do znezaražennja.<split>Prystupajemo do vydalennja organičnyh substancij.
+AKTYVOVANYJ PROCES AVARIJNOJI DETONACIJI BOJEGOLOVKY AL'FA.<split>VYBUH PIDZEMNOJI ČASTYNY KOMPLEKSU ČEREZ [time] SEKUND.
+DETONACIJA SKASUVANO. PEREZAPUSK SYSTEM.
+PROCES DETONACIJI VIDNOVLENYJ, DO VYBUHU [time] SEKUND.

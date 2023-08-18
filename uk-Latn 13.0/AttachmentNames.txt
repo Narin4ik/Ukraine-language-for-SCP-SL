@@ -1,0 +1,46 @@
+Ničogo~Variant za zamovčuvannjam bez bud'-jakyh efektiv.
+Muška~Para markeriv reguljuvannja, ščo stanovljat' proste i legke prycil'ne prystosuvannja.
+Prycil Z Točkoju~Reflektornyj prycil bez zbil'šennja z malen'koju točkoju, ščo svityt'sja, ščo vkazuje na misce pryciljuvannja.
+Golografičnyj Prycil~Prycil bez zbil'šennja z golografičnoju sitkoju. Efektyvnyj u boju na korotkyh dystancijah.
+Prycil Ničnogo Bačennja~Optyčnyj prycil dopovnenyj pryladom ničnogo bačennja. Važkyj, ale efektyvnyj za bud'-jakogos' osvitlennja.
+Prycil-ličyl'nyk Patroniv~Muška z vbudovanym prystrojem ličyl'nykom patroniv.
+Teleskopičnyj Prycil~Tjažke prycil'ne prystosuvannja, ščo zabezpečuje optyčne zbil'šennja. Ideal'no pidhodyt' dlja dalekyh dystancij, ale obmežuje zagal'ne spryjnjattja.
+Standartnyj Pryklad~Štatnyj pryklad, ščo zabezpečuje kraščyj kontrol' nad zbrojeju pry pryciljuvanni.
+Podovženyj Pryklad~Zabezpečuje kraščyj kontrol' nad zbrojeju pry pryciljuvanni, ale zbil'šuje čas ekipiruvannja.
+Vtjagnutyj Pryklad~Robyt' zbroju kompaktnišoju, ščo zbil'šuje mobil'nist'.
+Legkyj Pryklad~Zmenšuje vagu zbroji, ale uskladnjuje kontrol' viddači pry pryciljuvanni.
+Tjažkyj Pryklad~Zbil'šena vaga znyžuje ruhlyvist', ale robyt' zbroju bil'š stijkoju pry pryciljuvanni.
+Pryklad Z Zmenšennjam Viddači~Pryklad, osnaščenyj systemoju, jaka namagajet'sja rozpodilyty sylu miž okremymy postrilamy.
+Rukojatka~Vertykal'na perednja rukojatka. Polegšuje kontrol' za vertykal'noju viddačeju.
+Lazernyj Prycil~Zabezpečuje vizual'nyj orijentyr na cil', ščo dopomagaje pry stril'bi vid stegna, ale može legko vydaty vašu pozyciju.
+Lihtaryk~Peremykač džerela svitla. Zbil'šuje zagal'nu vagu zbroji, ale može vrjatuvaty žyttja u temnyh miscjah.
+Ličyl'nyk Patroniv~Prystrij dlja pidrahunku bojeprypasiv. Eksperymental'na tehnologija, jaka vyjavylas' korysnoju, osoblyvo z magazynamy velykoji jemnosti.
+Standartnyj Stvol~Zvyčajnyj stovbur bez nasadok.
+Podovženyj Stvol~Pidvyščuje zagal'nu vognevu mic', ale znyžuje ruhlyvist' čerez zbil'šenu vagu i dovžynu.
+Glušnyk~Moderator zvuku. Zmenšuje gučnist' postriliv, ale zbil'šuje zagal'nu vagu ta dovžynu zbroji.
+Plamegasytel'~Usuvaje dul'ne polum'ja. Polegšuje striljanynu u temrjavi.
+Dule Gal'mo~Kompensator viddači. Vykorystovuje porohovi gazy zmenšennja viddači, ale zbil'šuje akustyčnu intensyvnist' postriliv.
+Dul'nyj Pryskorjuvač~Pidvyščuje skorostril'nist', ščo pryzvodyt' do bil'šoji škody v sekundu, ale zbroju staje skladniše kontroljuvaty.
+FMJ Magazyn~Standartnyj magazyn, ščo mistyt' obolonkovi kuli.
+AP Magazyn~Standartnyj magazyn, ščo mistyt' bronebijni kuli.
+JHP Magazyn~Standartnyj magazyn, ščo mistyt' ekspansyvni kuli.
+Rozšyrenyj FMJ Magazyn~Rozšyrenyj magazyn, ščo mistyt' obolonkovi kuli.
+Rozšyrenyj AP Magazyn~Rozšyrenyj magazyn, ščo mistyt' bronebijni kuli.
+Rozšyrenyj JHP Magazyn~Rozšyrenyj magazyn, ščo mistyt' ekspansyvni kuli.
+FMJ Baraban~Barabannyj magazyn velykoji jemnosti, ščo mistyt' obolonkovi kuli.
+AP Baraban~Barabannyj magazyn velykoji jemnosti, ščo mistyt' bronebijni kuli.
+JHP Baraban~Barabannyj magazyn velykoji jemnosti, ščo mistyt' ekspansyvni kuli.
+Malojemnyj FMJ Magazyn~Malojemnyj magazyn, ščo mistyt' obolonkovi kuli.
+Malojemnyj AP Magazyn~Malojemnyj magazyn, ščo mistyt' bronebijni kuli.
+Malojemnyj JHP Magazyn~Malojemnyj magazyn, ščo mistyt' ekspansyvni kuli.
+4-Zarjadnyj Baraban~Vmiščuje menše patroniv, ale zdatnyj zavdavaty pidvyščenoji škody bronjovanym protyvnykam.
+6-Zarjadnyj Baraban~Klasyčnyj šestyzarjadnyk.
+8-Zarjadnyj Baraban~Vmiščuje bil'še patroniv, ale važče natyskannja na spusk vymagaje bil'še času dlja vykonannja točnyh postriliv.
+Karabinna Stvol'na Korobka~Zvyčajna verhnja stvol'na korobka karabina, jaka vvažajet'sja vidminnym kompromisom miž vognevoju miccju i ruhlyvistju.
+Gvyntuval'na Stvol'na Korobka~Povnorozmirna verhnja stvol'na korobka. Pokraščuje vognevu mic' ta točnist', ale važča gazova systema znyžuje skorostril'nist'.
+Korotkyj Stvol~Ukoročenyj variant standartnogo stvola, ščo vykorystovujet'sja dlja pidvyščennja švydkosti vzjattja zbroji ta ruhlyvosti.
+Čok~Zbil'šuje zagal'nyj radius rozsijuvannja, ale pokraščuje stalist' paternu.
+Podovženyj Stvol~Trohy zmenšuje rozkyd kul', ale zbil'šuje zagal'nu vagu ta dovžynu zbroji.
+Bez Prykladu~Ukoročena konfiguracija zbroji bez prykladu robyt' praktyčno nemožlyvym pryciljuvannja, ale pokraščuje ruhlyvist'.
+Systema Odynočnogo Postrilu~Standartna systema. Natyskannja na kurok pryzvede do odynočnogo postrilu.
+Systema podvijnogo postrilu~Modyfikovanyj spuskovyj mehanizm, ščo pryvodyt' u diju obydva šepotila odnym natyskannjam.

@@ -1,0 +1,10 @@
+<color=green>VIDKRYTO</color>
+<color=#07A2FF>ZAKRYTO</color>
+<color=orange><size=20>PEREMIŠČENNJA</size></color>
+<color=red><size=20>BLOKUVANNJA</size></color>
+<color=red>POMYLKA</color>
+<color=red>U DOSTUPI VIDMOVOLENO</color>
+<color=green>DOSTUP NADANO</color>
+<color=#07A2FF>POTRIBNA\nKLJUČ-KARTA</color>
+<color=orange>BUD' LASKA,\nPROHODIT'</color>
+<color=orange>ZAKRYTTJA</color>

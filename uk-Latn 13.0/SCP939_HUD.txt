@@ -1,0 +1,46 @@
+Natysnit' [key_attack] abo [key_jump], ščob zrobyty vypad.
+Prosluhovuvannja golosu (til'ky Vy čujete ce)
+LOKAL'NE PEREDSLUGOVUVANNJA
+Vydalyty zapys golosu (utrymujte)
+Vidtvoryty zapys golosu (usi možut' počuty ce)
+SCP-939 ubyv vas ta zabrav vaš golos!
+Jakščo Vy ne bažajete, ščob vaš golos buv vykorystanyj, Vy možete vymknuty cju funkciju.
+Zapam'jataty vybir
+vydalyty
+OK
+Dokladniše
+SCP-939 vykorystovuje mehaniku, koly ostanni kil'ka sekund vašogo golosu tymčasovo zapysujut'sja. Zapys može buty vidtvorenyj SCP-939 dlja vymanjuvannja cilej.\nZapysy avtomatyčno vydaljajut'sja, koly Vy zalyšajete server, pislja smerti SCP-939 abo pislja perezapusku raundu. Vymknennja cijeji funkciji vydaljaje vsi isnujuči zapysy golosu.
+Hmara amneziaku ne može buty rozgornuta u cij pozyciji.
+Minimal'nogo rozmiru hmary amneziaku ne dosjagnuto. Utrymujte klavišu rozgortannja dovše.
+SCP-939 slipyj i bačyt' kriz' zvuk. Vin otrymuje vygodu z pomylok, vykorystovujučy svoji bezšumni kroky ta ljakajuču švydkist', ščob vlaštovuvaty zasidky ta vbyvaty.
+Kigot':Natysnit', ščob provesty kigtem šyrokoju dugoju pered soboju, vidryvajučy tilo i kistky vid obranoji vamy žertvy. Pid čas fokusuvannja vaša osnovna ataka dozvolyt' vam kynutys' na svij vydobutok.
+Fokus: Prysvjatyvšy vsju svoju energiju svojim počuttjam, vy zmožete pobačyty vydobutok zdaleku, a takož zmožete vyznačyty, do jakogo typu vona naležyt', za dijamy, jaki vona robyt'.
+Hmara Amneziaku:Napovnit' povitrjani mišky nebezpečnym nejrohimičnym gazom, vykydajučy jogo v radiusi, ščo vyznačajet'sja časom jogo zarjadky. Ljudy, ščo vdyhajut' gaz, vtračajut' spryjnjattja SCP-939 i ne možut' vykonuvaty pevnyh dij. Odnak bud'te oberežni, ataka čy ataka rozkryjut' vas na korotkyj čas.
+Z Bezliččju Golosiv:Ljudy, jakyh vy vbyvajete, majut' šans skazaty vam svoji ostanni slova, dozvoljajučy vam vkrasty jihnij golos i vykorystovuvaty jogo, ščob obduryty inšyh. Krim togo, SCP-939 takož možut' imituvaty dejaki osnovni zvuky, napryklad maskuvaty svoji kroky, ščob vony vidpovidaly ljuds'kym.
+Nadčutlyvist':SCP-939 zdatnyj vidčuvaty dovkolyšni džerela tepla, predstavleni malym radiusom normal'nogo zoru. Odnak, krim cjogo, vy povynni pokladatysja na zvuk, ščob vidstežuvaty najblyžču vydobutok. Čym gučnišyj zvuk, tym dali vy možete jogo počuty. Diapazon vašogo zoru zaležyt' vid rivnja vašoji vytryvalosti.
+-
+Rozmistit' mimičnu točku
+Perevyznačyty stan džerela zvuku Mimicry
+Vydalyty mimičnu točku
+Zrobit' tak, ščob usi zvuky vyhodyly z vašogo potočnogo roztašuvannja
+Nabir mimičnyh točok!
+Mimična točka vylučena!
+Mimik-Pojnt znyščeno. Vy poza dosjažnistju.
+Vkradeni golosy
+-
+Mimikrija dovkillja
+-
+(Perezarjadka: [time]s)
+-
+Uosoblennja
+Stril'ba
+Inše
+-
+-
+Roli
+Garjača klaviša [key]
+Vidtvoryty vybranyj zvuk (ce možut' počuty vsi)
+Zupynyty vidtvorennja
+Peretjagnit', ščob obrizaty zapys
+Pereključyty u obrane. Zapysy, poznačeni jak obrani, pryv'jazani do garjačoji knopky.
+Peretjagnit', ščob reorganizuvaty zapysy

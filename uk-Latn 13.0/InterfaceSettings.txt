@@ -1,0 +1,15 @@
+Režym vidobražennja IP-adresy servera
+Mova interfejsu
+U dejakyh miscjah zminy nabudut' čynnosti ne vidrazu.\nRekomendujet'sja povnyj perezapusk gry.
+Zavantažennja...
+Subtytry
+Režym smugy zdorov'ja
+Točnyj nomer HP
+Vidsotok
+Vstupna animacija roli
+Zvyčajnyj
+Švydkyj
+Keruje tryvalistju povnoekrannoji tekstovoji animaciji, ščo mistyt' nazvu vašoji novoji roli.
+Pryhovanyj
+Dozvoljaje pryhovaty IP-adresu servera na elementah interfejsu.
+Panel' zavdan' spalahu pid čas vidrodžennja

@@ -1,0 +1,23 @@
+ADMINISTRATOR ZABORONYV VAM GOVORYTY
+VAM ZABORONENO GOVORYTY NA VSIH SERVERAH
+VY NE AVTORYZOVANI
+PARAMETRY KONFIDENCIJNOSTI
+Vaš mikrofon vymkneno čerez nalaštuvannja konfidencijnosti.
+Nalaštuvannja konfidencijnosti golosovogo čatu
+Gra vykorystovuje golosovyj čat. Vykorystannja klaviš dlja rozmovy (za zamovčuvannjam "Q" abo "V") pryzvede do zahoplennja vašogo mikrofona ta peredači jogo inšym gravcjam, pidključenym do servera. .
+Vidhylyty vse (vymknuty zahoplennja mikrofona)
+Nalaštuvannja personalizaciji
+Pryjnjaty vse
+Pryjnjaty
+Vidhylyty
+Zahoplennja mikrofonu
+Dozvolyty gri zahopljuvaty mikrofon i peredavaty jogo gravcjam pry natysnutij klaviši. U nyžnij častyni ekrana z'javyt'sja piktograma mikrofona, jaka vkazuje na aktyvnu peredaču. Gra nikoly ne peredavatyme abo vykorystovuvatyme vaš svitofon bez vydymogo indykatora.
+Korotki zapysy
+Dozvolyty igrovym mehanikam vykorystovuvaty korotki zapysy golosu. Ce vključaje zdatnist' SCP-939 "Z bezliččju golosiv", jaka može zapysuvaty ta vidtvorjuvaty korotki zrazky golosu vbytyh žertv. Vsi zapysy vydaljajut'sja v toj moment, koly vy zalyšajete server abo pislja perezapusku raundu.
+Zastosuvaty
+Povernutysja
+Natysnit' [key] ta perejdit' do «Nalaštuvannja», ščob nalaštuvaty.
+Vymknuty golosovyj čat u žyvyh gravciv
+Vymknuty golosovyj čat u inšyh gljadačiv
+Vymknuty golosovyj čat u lobi
+Vymknuty global'nyj golosovyj čat iz pidsumkovym zvitom po raundu

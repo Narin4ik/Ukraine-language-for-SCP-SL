@@ -1,0 +1,16 @@
+Vidstežennja korystuvačiv na storoni servera
+Dozvoljaty
+Zaboronyty (DNT)
+U razi vidmovy perevirenym serveram zaboronjajet'sja vykorystovuvaty vaši dani (IP-adresa, identyfikator korystuvača i t.d.) z metoju, ne pov'jazanoju z bezpekoju servera. Dejaki specyfični dlja servera funkciji (taki jak spysky lideriv, systemy rivniv toščo) budut' pracjuvaty nekorektno.
+Bagata prysutnist'
+Dozvoljaje platformam (Steam ta Discord) vidobražaty bil'še informaciji pro vaš potočnyj igrovyj status.
+Lobi Steam
+Publični lobi dozvoljajut' inšym korystuvačam pryjednuvatysja do servera čerez profil' Steam.
+Nalaštuvannja konfidencijnosti golosovogo čatu
+Profil' u spysku gravciv
+Dozvoljaje gravcjam peregljadaty vaš profil' Steam, klacnuvšy značok u spysku gravciv u gri.
+Pokazano
+Pryhovanyj
+Pryvatnyj
+Publičnyj
+Zminy nabudut' čynnosti pry nastupnomu pidključenni do servera (abo pry perezapusku raundu).

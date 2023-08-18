@@ -1,0 +1,4 @@
+UVAGA
+OK
+Bula vyjavlena ​​<b>nepidtrymuvana</b> vbudovana videokarta vid <b>Intel Graphics</b>.\n<b>Rekomendujemo</b> vykorystovuvaty <b>dyskretnu</b> videokartu.\nNa vašomu prystroji gra može <b>často vylitaty</b>.
+Ne znajdeno važlyve onovlennja operacijnoji systemy, potribne dlja golosovogo čatu. Perekonajtesja, ščo kopiju Windows onovleno, inakše gra može pracjuvaty ne korektno. Jakščo pislja onovlennja systemy pomylka zalyšyt'sja, bud' laska, zv'jažit'sja z našoju tehničnoju pidtrymkoju

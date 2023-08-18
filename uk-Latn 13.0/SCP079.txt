@@ -1,0 +1,17 @@
+ENERGIJA
+DOSVID
+KAMERA AKTYVNA
+NATYSNIT' KLAVIŠU [KEY], ŠČOB VIDKRYTY KARTU
+Zdobutyj dosvid za:
+Komandna pracja
+\nDopomoga u znyščenni personalu Klasu D
+\nDopomoga u znyščenni Povstancja Haosu
+\nDopomoga u znyščenni bijcja MOG
+\nDopomoga u znyščenni Naukovogo Spivrobitnyka
+\nDopomoga u znyščenni ob'jekta SCP
+ZAPERTO DVEREJ: [LOCKED_NUM]<size=23>NATYSNIT' PKM, ŠČOB ROZBLOKUVATY VSE DVERI</size>
+Vzajemodija
+Systema shyl'na do ataky!
+Zony z vyjavlenymy pogrozamy vidmičeni na karti
+UVAGA!
+Ob'jekty SCP{0}MOG i Ohorona{1}Naukovi Spivrobitnyky{2}Spivrobitnyky Klasu D{3}Povstanci Haosu{4}

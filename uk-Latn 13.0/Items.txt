@@ -1,0 +1,44 @@
+0~Ključ-karta\nPrybyral'nyka
+1~Ključ-karta\nNaukovcja
+2~Ključ-karta\nNaukovogo Kerivnyka
+3~Ključ-karta\nMenedžera Zon Utrymannja
+4~Ključ-karta\nOhoroncja
+5~Ključ-karta\nRjadovogo MOG
+6~Ključ-karta\nInženera Kamer Utrymannja
+7~Ključ-karta\nSeržanta MOG
+8~Ključ-karta\nKapitana MOG
+9~Ključ-karta\nMenedžera Kompleksu
+10~Prystrij Zloma\nPovstanciv Haosu
+11~Ključ-karta\nRady O5
+12~Racija~SR = korotki hvyli\nMR = seredni hvyli\nLR = dovgi hvyli\nUR = naddovgi hvyli\n\n<size=60%>Uvimknena racija žyvyt'sja vid akumuljatora.</size>\n<size=60%>Dovši hvyli syl'niše\nvykorystovujut' akumuljator.</size>
+13~COM-15
+14~Aptečka~Dozvoljaje zalikuvaty ne smertel'ni rany.
+15~Lihtaryk~"Haj bude svitlo!"
+16~Micro H.I.D.~Mobil'nyj rozrjadnyk Polja vysokoji naprugy.
+17~SCP-500~Panaceja.
+18~SCP-207~Pokraščuje ruhovi funkciji na škodu zdorov'ju.
+20~MOG-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Ulamkovo-Fugasna Granata~Nanosyt' suttjevu škodu oskolkamy navkolo miscja vybuhu.
+26~Svitlošumova Granata~Na dejakyj čas zaslipljuje vsih suprotyvnykiv u radiusi vybuhu.
+30~COM-18
+31~SCP-018~M'jač «Super Ball». Maje zdatnist' duže vidskakuvaty.
+32~SCP-268~Koly vdjagnenyj, dozvoljaje tymčasovo stavaty nevydymym. Dija prypynjajet'sja čerez bud'-jaku vzajemodiju.
+33~Adrenalin~Tymčasovo zbil'šuje vytryvalist'.
+34~Zneboljuval'ne~Dozvoljaje polegšyty bil' vid neznačnyh travm.
+35~Moneta~Vy bez ponjattja naviščo nosyte jiji z soboju...
+36~Legka Bronja
+37~Bojova Bronja
+38~Tjažka Bronja
+39~Revol'ver .44 Kalibra
+40~AK
+41~Drobovyk
+42~Mišok cukerok~Mišok mistyt' taki cukerky:
+43~SCP-2176~Vaše vlasne prymarne svitlo! Oberežno, duže tenditnyj...
+44~SCP-244-A~Drevnja vaza, kryžana na dotyk. Pry rozmiščenni stvorjuje velyku hmaru kryžanogo tumanu.
+45~SCP-244-B~Davnja vaza, kryžana na dotyk. Pry rozmiščenni stvorjuje velyku hmaru kryžanogo tumanu.
+46~SCP-1853~Polipšuje navyčky povodžennja zi zbrojeju cinoju vysokoji vytraty vytryvalosti.
+47~Rujnuvač častynok 3-X
+50~JailBird~ŠČO?!

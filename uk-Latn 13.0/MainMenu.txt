@@ -1,0 +1,101 @@
+UVIJTY
+ZAKRYTY
+ROZŠYRENNJA TINIV
+NALAŠTUVANNJA
+ZA MOTYVAMY <i>SCP: CB</i>.
+NAZAD
+MOVA GRY
+Zgladžuvannja
+Zmina nalaštuvan' detalizaciji: \n-DŽERELA SVITLA - maksymal'na kil'kist' džerel svitla jaki renderujut' svoje svitlo na indyvidual'nyh pikseljah\n-V-Sync - vključaje synhronizaciju častoty vidtvorennja zobražennja z častotoju onovlennja monitora.
+ZNAJTY SERVER
+POST\nOBROBKA
+TYTRY
+VYHID
+Povnoekrannyj režym
+NALAŠTUVANNJA EKRANU
+CVITOKOREKCIJA
+Vvedit' IP-adresu servera...
+ROZŠYRENNJA EKRANU
+GRATY
+DŽERELA SVITLA
+OTRYSUVANNJA TINIV
+TINI
+Stvoryty server
+Zmina nastrojok post-procesyngu. Ci nalaštuvannja ne vplyvajut' na produktyvnist' gry. Rekomendovano zalyšyty standartni značennja.
+Vidobražennja osvitlennja: Koly vymkneno — grafika gry vygljadaje značno girše. Rekomendujet'sja vymknuty lyše jakščo u vas duže stara konfiguracija komp'jutera.
+V-Sync (Vertykal'na synhronizacija)
+PIDKLJUČYTYSJA
+NALAŠTUVANNJA JAKOSTI
+Zmina nalaštuvan' tinej. Vstanovlennja slajderiv nalaštuvan' na minimal'ni značennja može pokraščyty plavnist' gry.
+GOLOVNE MENJU
+OTRYSUVANNJA OSVITLENNJA
+ROZMYTTJA V RUSI
+DYSTANCIJA OTRYSUVANNJA TINIV
+DETALI
+3. SCP-914
+NAVČANNJA
+UVAGA
+Spysok dostupnyh serveriv
+Ne pokazuvaty ce znovu
+Jak Vy hočete pidključytys'?
+ZNAJTY GRU
+OK
+POŠUK SERVERU
+2. Vykorystannja zbroji
+My vykorystovujemo Discord jak forum. Instaljacija ne potribna.\n(natysnit' na logotyp, ščob pryjednatysja)
+Za promovčannjam, server bude zapuščenyj u lokal'nij mereži.\nVašym druzjam bude potribno vašu IP adresu, ščob pidključytysja do servera.\nJakščo Vy hočete zapustyty publičnyj server, zapustit' LocalAdmin.exe\nv korenevij papci gry i dotrymujtes' instrukcij.\nJakščo u Vas je jakis' - bud'-jaki pytannja,\n bud' laska, zadavajte jih našij tehničnij pidtrymci na oficijnomu Discord serveri gry\n(posylannja znahodyt'sja v golovnomu menju)
+1. Osnovy gry
+Gra vse šče znahodyt'sja u stadiji vidkrytogo beta-testuvannja.\nVy možete vyprobuvaty problemy zi z'jednannjam ta bezlič inšyh pomylok gry.\nPotočnyj stan gry ne vidobražaje gejmplej final'noji versiji.
+4. (z'javyt'sja u majbutnjomu)
+VVESTY IP ADRESA
+TEHPIDTRYMKA / FORUM
+Gučnist' zvuku
+Prjame pidključennja do servera.
+OTRYMANNJA DANYH
+SERVERY NE ZNAJDENI
+NATYSNIT' ESC, ŠČOB SKASUVATY PIDKLJUČENNJA
+PRYV'JAZKA KLAVIŠ
+U P'JATNYK KROVI
+Limit FPS
+Limit FPS ne pracjuje koly uvimkneno V-Sync!
+Za zamovčuvannjam
+My vykorystovujemo obgovorennja Steam jak forum. (Klacnit' na logotyp nyžče, ščob perejty na forum)
+NALAŠTUVANNJA ZVUKU
+ZAGAL'NA GUČNIST'
+MUZYKA
+GOLOSOVYJ ČAT
+EFEKTY
+NALAŠTUVANNJA GRY
+PROPUSK INTRO
+Tekst opysu vašogo klasu na počatku raundu znykne nabagato švydše.
+SCP-079 - ZMINA REŽYMU PEREGLJADU
+Zamist' utrymuvannja klaviši natysnit' jiji odyn raz, ščob pereključytysja miž režymamy kamery.
+SCP-079 - POST-PROCESYNG
+Vymknit', ščob zmenšyty kil'kist' vizual'nyh efektiv u režymi kamery.
+POKAČUVANNJA KAMERY
+Vmykaje pohytuvannja kamery pid čas ruhu.
+SPRYNT odnym natyskannjam
+Zamist' utrymannja klaviši, sprynt vmykajet'sja ta vymykajet'sja odnym natyskannjam.
+VIDDIL'NA ŠKALA ŠČYTU
+Pokazuje okremu škalu ščyta zamist' overleja.
+Pereklad gry dostupnyj na GitHub'i!\nHočete dopomogty z perekladom gry? Klacnit' sjudy dlja perehodu v repozytorij.
+RICH PRESENCE
+Uvimknit', ščob status vašoji gry vidobražavsja čerez Discord ta Steam.
+VIDBYRATY ZDOROV'Ja ČYSLOM
+Vidobražaje točnu kil'kist' zdorov'ja zamist' vidsotkiv.
+PUBLIČNE LOBI
+Uvimknit', ščob vaši druzi Steam mogly pryjednuvatysja do servera, na jakomu vy grajete.
+Pryhovaty IP
+Uvimknit', ščob pryhovaty vašu IP adresu v konsoli klijenta gry.
+VZJATY NATYSNUVANNJAM
+Vključaje režym pidnjattja predmetiv natyskannjam knopky; Ščob skasuvaty, natysnit' klavišu šče raz.
+Zastosovuje m'jaki tini do kutiv ta vuz'kyh oblastej dlja nadannja modeljam bil'šoji glybyny.
+Nadaje otočennju bil'še glybyny cinoju vysokoji produktyvnosti.
+Nadaje osvitlennju bil'šoji glybyny, zastosovujučy svičennja zaležno vid intensyvnosti svitla.
+Peremknit' dlja pokazu subtytriv dlja spoviščen' cassie.
+Pidsvičuje panel' zavdan', koly vy z'javljajetesja i zgornuta gra.
+Zgladžuje liniji ta usuvaje vizual'ni spotvorennja.
+Synhronizuje častotu kadriv u gri z častotoju onovlennja monitora dlja usunennja rozryviv ekrana.
+Proektovani tekstury, taki jak kuljovi otvory abo bryzky krovi.
+Pereključyty temnyj režym
+Pereključit', ščob zminyty dejaki jaskravi elementy na jih versiji temnoji tematyky.

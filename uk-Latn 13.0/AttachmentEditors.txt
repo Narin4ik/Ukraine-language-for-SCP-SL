@@ -1,0 +1,18 @@
+Peredustanovka
+Poperednje nalaštuvannja #[index]
+Zberegty
+OČYŠČYTY OBVISY
+Za zamovčuvannjam
+PREDSTANOVKY
+STANCIJA - <color=#c00>VIDKLJUČENA</color>
+<color=#ccc>TOČKA MODYFIKACIJI ZBROJI ZONY-02</color> - U REŽYMI OČIKUVANNJA\n<size=39>DOKRASNIT' EKRANA DLJA AKTYVACIJI.\n<color=#ccc>TIL'KY DLJA AVTORYZOVANOGO PERSONALU.</color></size>
+Laskavo prosymo, KORYSTUVAČ!
+STANCIJA VKLJUČAJET'SJA...
+STANCIJA - <color=#0c0>UVIMKNENA</color>
+<size=52><color=#ccc>STANCIJA MODYFIKACIJI ZBROJI ZONY-02</color> - UVIMKNENA</size>\n<size=42><color=#ccc>BUD' LASKA, VIZ'MIT' VAŠU ZBROJU V RUKY DLJA MODYFIKACIJI OBVISIV.</color></size>
+VYMYKANNJA
+STANCIJA VYMYKAJETSJA
+POKAZATY ZVEDENNJA
+PRYHOVATY ZVEDENNJA
+Modyfikacija [Attachment]
+Natysnit' [Key], ščob redaguvaty obvisiv zbroji.

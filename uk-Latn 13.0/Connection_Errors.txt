@@ -1,0 +1,38 @@
+<size=80>VY BULY VIDKLJUČENI VID SERVERU</size>\nServer perervav z'jednannja z Vamy.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVkazanyj server nedostupnyj.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVkazanyj ID z'jednannja ne isnuje.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVkazanyj kanal ne isnuje.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nServer perepovnenyj.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nOtrymano nepravyl'nyj paket mereži.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nPerevyščenyj limit očikuvannja vidpovidi vid servera.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nPerevyščenyj limit očikuvannja vidpovidi vid servera.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nOperacija ne pidtrymujet'sja.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nNepravyl'na konfiguracija servera (nesupadannja versij gry).
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nNepravyl'na konfiguracija servera.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nIP adres vvedena nepravyl'no abo z'jednannja z vkazanoju adresoju ne može buty vstanovleno.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nStalasja nespodivana čy nevidoma problema!
+<size=80>BUD' LASKA, ZAČEKAJTE</size>\n<size=35>Z'jednannja...</size>
+<size=80>PEREZAPUSK RAUNDU</size>\n<size=35>Jde proces perezapusku raundu... Začekajte...</size>
+<size=80>BUD' LASKA, ZAČEKAJTE</size>\n<size=35>Zavantažujet'sja navčannja...</size>
+<size=80>NESPIVPADINNJA VERSIJ</size>\nVersija vašoji gry vidriznjajet'sja vid versiji servera.\n(Klijent - [your]; Server - [server])
+<size=80>Z'JEDNANNJA VSTANOVLENO</size>\n<size=35>Zavantažennja rivnja...</size>
+<size=35>Zavantažennja rivnja...</size>
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nNa serveri vynykla nevidoma pomylka.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nServer vymagaje avtentyfikaciji vid central'nogo servera.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVas nemaje v bilomu spysku servera.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly zabaneni moderatoramy gry.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly zabaneni moderatoramy gry: [reason].
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly zabaneni na cjomu serveri.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly zabaneni na cjomu serveri.\nBan zakinčujet'sja: [date] [time]
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVaš token avtoryzaciji zakinčyvsja.\nMožlyvo, na serveri vstanovleno nepravyl'nyj čas abo časovyj pojas.\nBud' laska, zv'jažit'sja z administratorom servera.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy perevyščyly limit pidključen'. Sprobujte šče raz za kil'ka sekund...
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nServer ne dozvoljaje pidključennja z vašogo regionu.\nMožlyvo, vy zmožete znajty bil'še informaciji v nazvi servera abo v Server Info.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly kiknuty modyfikacijeju servera.\n\nPryčyna: [reason]\nCe modyfikacija servera, a ne igrova funkcija.\nZvernit'sja do administratora servera, ščob diznatysja bil'še informaciji.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVaš token avtoryzaciji vidkynutyj serverom.\nBud' laska, perezapustit' gru i sprobujte šče raz, abo zv'jažit'sja z našoju tehničnoju pidtrymkoju.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly zabaneni na cjomu serveri.\nPryčyna: [reason]
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nVy buly zabaneni na cjomu serveri.\nBan zakinčujet'sja: [date] [time]\nPryčyna: [reason]
+<size=80>BUD' LASKA, ZAČEKAJTE</size>\nIde serverna perevirka bezpeky...
+<size=80>Z'JEDNANNJA ROZRVANO</size>\nNe vdalosja zdijsnyty servernu perevirku bezpeky.
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nServerna perevirka bezpeky zajnjala zanadto bagato času.\nBud' laska, sprobujte znovu abo zv'jažit'sja z administratorom servera.
+<size=80>POMYLKA AUTENTYFIKACIJI</size>\nPovidomlennja vid Central'nogo Servera: [message].
+<size=80>Z'JEDNANNJA ROZIRVANO</size>\nServer vymykajet'sja.
