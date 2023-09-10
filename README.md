@@ -1,15 +1,15 @@
-# Ukraine language for SCP: Secret Laboratory
+# Ukrainian language for SCP: Secret Laboratory
 
 **UA:**
-> Через довге не оновлення Української мови у грі **SCP: Secret Laboratory** та я її вирішив оновити.  
-> Доступно на версії: **[13.0](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.6.0)** та **[12.0](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.4.1)**.                                                                  
+> Через довге не оновлення української локалізації у грі **SCP: Secret Laboratory** я її вирішив оновити.  
+> Доступно на останню версію гри: **[13.2](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.8.0)**                                                                   
 > Розробник цього перекладу - @YT-Narin & @PlaguePolski.                                                            
 > Якщо Ви побачили помилку в даному перекладі - пишіть у **[Discord сервер](https://discord.gg/xBYJmpHptk)**.                    
 > Зроблено з любов'ю для NorthWood Studio                                                          
 
 **ENG:**
-> After a long time not updating the Ukrainian language in the game **SCP: Secret Laboratory** and I decided to update it.                                               
-> So far it is on version **[13.0](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.6.0)** and **[12.0](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.4.1)**.           
+> After a long time not updating the Ukrainian localization in the game **SCP: Secret Laboratory** I decided to update it.                                               
+> Available on newest game version **[13.2](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.8.0)**         
 > The developer of this translation is @YT-Narin & @PlaguePolski.                                                 
 > If you see an error in this translation - write to the **[Discord server](https://discord.gg/xBYJmpHptk)**.               
 > Made with love for NorthWood Studio                                                          
