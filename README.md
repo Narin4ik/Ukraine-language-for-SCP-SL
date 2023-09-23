@@ -17,9 +17,9 @@
 
 # Old developers
 **UA:**
-> Старими розробниками є: TRI99ER, Andrii, Rayfulrand та Raboshchuk                                    
+> Старими розробниками є: TRI99ER та Andrii "Rayfulrand" Raboshchuk                                    
 > Дякуємо, що Ви раніше оновлювали Українську мову.                                                         
 
 **ENG:**
-> Old developers are: TRI99ER, Andrii, Rayfulrand and Raboshchuk                                              
+> Old developers are: TRI99ER and Andrii "Rayfulrand" Raboshchuk                                             
 > Thank you for updating the Ukrainian language earlier.                                                              
