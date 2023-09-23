@@ -1,4 +1,0 @@
-<size=180><color=red>NE GOTOVYJ</color></size>
-<color=red><size=200>ČEKAJTE</size></color>
-<color=lime><size=180>GOTOVYJ</size></color>
-DETONACIJA NEYZBEŽNA

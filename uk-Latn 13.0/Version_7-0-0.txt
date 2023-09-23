@@ -1,5 +1,0 @@
-VY POMERLY
-Natysnit' {KEYBINDING_INTERACTION}, ščob pomistyty <color=yellow>Planšet upravlinnja ozbrojennjam</color>.
-Natysnit' {KEYBINDING_INTERACTION}, ščob zabraty <color=yellow>Planšet upravlinnja ozbrojennjam</color>.
-Do cijeji <color=yellow>Robočoji Stanciji</color> vže pidključeno čyjs' <color=yellow>Planšet Upravlinnja Ozbrojennjam</color>.
-Pidključit' <color=yellow>Planšet upravlinnja ozbrojennjam</color>, ščob vykorystovuvaty cju <color=yellow>Roboču Stanciju</color>.

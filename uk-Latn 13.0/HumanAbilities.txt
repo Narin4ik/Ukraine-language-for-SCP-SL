@@ -1,7 +1,0 @@
-Sprynt:Zbil'šuje švydkist' ruhu, ale takož zbil'šuje zvuk, ščo vydajet'sja pid čas ruhu.
-Pryhovanist':Vaši ruhy stajut' bezšumnymy zavdjaky velykij švydkosti.
-Inventar:Vidkryjte svij inventar i vyberit' predmet, jakyj vy pidibraly, vykorystovujučy LKM, abo kyn'te jogo za dopomogoju PKM.
-Bezzbrojnyj:U tebe ničogo nemaje. Znajty ščos'. Ščos'.
-Karta dostupu:U vas je karta dostupu, vona ne najkrašča, ale ne vtračajte jiji.
-Standartna problema:U vas je vognepal'na zbroja, karta dostupu ta dejaki korysni predmety.
-Ozbrojeni ta nebezpečni:Vy otrymaly važke ozbrojennja, prystrij dostupu ta medykamenty.
