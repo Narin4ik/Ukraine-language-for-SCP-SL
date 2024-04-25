@@ -15,7 +15,7 @@
 > Made with love for NorthWood Studio.               
                
                
-## UK Installer
+## UK Downloader
 **UA:**               
 > Програма для швидкого встановлення цієї локалізації.               
 > Докладніше можна дізнатися за цим посиланням: https://github.com/YT-Narin/UKDownloader
