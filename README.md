@@ -18,10 +18,11 @@
 ## UK Installer
 **UA:**               
 > Програма для швидкого встановлення цієї локалізації.               
-> Докладніше можна дізнатися за цим посиланням: https://github.com/YT-Narin/UKInstaller               
+> Докладніше можна дізнатися за цим посиланням: https://github.com/YT-Narin/UKDownloader
+
 **ENG:**               
 > Program for quick installation of this localization.               
-> You can find more information on this link: https://github.com/YT-Narin/UKInstaller               
+> You can find more information on this link: https://github.com/YT-Narin/UKDownloader               
                
                
 ## Old developers
