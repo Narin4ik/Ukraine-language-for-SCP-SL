@@ -1,10 +1,11 @@
 {
-  "Name": "Українська - Ukrainian",
+  "Name": "Українська",
   "Authors": [
     "Narin",
 	"PlaguePolski",
     "TRI99ER",
-    "Andrii \"Rayfulrand\" Raboshchuk"
+    "Andrii «Rayfulrand» Raboshchuk",
+	"Sergii «Fallenbard» Raboshchuk"
   ],
   "InterfaceLocales": [
     "uk-UA",
